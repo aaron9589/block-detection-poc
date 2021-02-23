@@ -7,4 +7,4 @@ It is cobbled together from a couple of different resources, however [this repo]
 
 ## Overall Diagram
 
-![diagram](_images\MQTT.png)
+![diagram](_images/MQTT.png)
